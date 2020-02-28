@@ -1,3 +1,15 @@
 section{
-    margin: 50px;
+    margin: git 50px;
 }
+html{
+  scroll-behavior: smooth;
+}
+
+.dropdown-menu{
+  width: 200%;
+}
+
+.login-div, .register-div{
+  margin: 30px;
+}
+
